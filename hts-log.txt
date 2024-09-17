@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 17 Sep 2024 02:22:23 at https://uithemez.com/i/hubfolio_HTML/inner_pages/portfolio-cards.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://uithemez.com/i/hubfolio_HTML/inner_pages/portfolio-cards.html -O1 "C:\My Web Sites\Work" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:23:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://uithemez.com/i/hubfolio_HTML/inner_pages/assets/imgs/about/s-icon1.svg (from https://uithemez.com/i/hubfolio_HTML/inner_pages/about.html)
+02:23:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://uithemez.com/i/hubfolio_HTML/inner_pages/assets/imgs/about/s-icon2.svg (from https://uithemez.com/i/hubfolio_HTML/inner_pages/about.html)
+02:23:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://uithemez.com/i/hubfolio_HTML/inner_pages/assets/imgs/blogs/blog1/6.jpg (from https://uithemez.com/i/hubfolio_HTML/inner_pages/blog-grid.html)
+02:23:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://uithemez.com/i/hubfolio_HTML/inner_pages/assets/imgs/services/1.jpg (from https://uithemez.com/i/hubfolio_HTML/inner_pages/service-details.html)
+02:23:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://uithemez.com/i/hubfolio_HTML/inner_pages/blog-list.html (from https://uithemez.com/i/hubfolio_HTML/inner_pages/blog-standard.html)
+02:23:12	Error: 	"Not Found" (404) at link https://uithemez.com/i/hubfolio_HTML/inner_pages/blog-classic.html (from https://uithemez.com/i/hubfolio_HTML/inner_pages/blog-details.html)
+02:23:12	Error: 	"Not Found" (404) at link https://uithemez.com/i/hubfolio_HTML/common/css/images/close.png (from https://uithemez.com/i/hubfolio_HTML/common/css/plugins/YouTubePopUp.css)
+02:23:12	Error: 	"Not Found" (404) at link https://uithemez.com/i/hubfolio_HTML/inner_pages/blog-list.html (from https://uithemez.com/i/hubfolio_HTML/inner_pages/blog-standard.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 49 seconds : 127 links scanned, 118 files written (24010429 bytes overall) [22493317 bytes received at 459047 bytes/sec], 2018308 bytes transferred using HTTP compression in 64 files, ratio 22%, 14.1 requests per connection
+(3 errors, 5 warnings, 0 messages)
