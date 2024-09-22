@@ -1,5 +1,12 @@
 /* Global
 -----------------------------------------------------------------*/
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 main {
   position: relative;
   z-index: 5; }
